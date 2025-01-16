@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/donk6786/ANS.git
-cd ANS
+#主要修改了Rechorus框架的baserunner和main，以及写入了ANS.py文件
 ```
 
 在**ANS**目录下创建虚拟环境
