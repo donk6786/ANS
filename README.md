@@ -1,5 +1,5 @@
 # ANS-Rechorus
-## 基于[Rechorus](https://github.com/THUwangcy/ReChorus)实现[ANS](https://dl.acm.org/doi/pdf/10.1145/3690656)算法的复现，并且与框架中的同类型算法在不止一个数据集上进行对比。
+## 基于[Rechorus](https://github.com/THUwangcy/ReChorus)实现[ANS](https://arxiv.org/pdf/2308.05972)算法的复现，并且与框架中的同类型算法在不止一个数据集上进行对比。
 ### Getting Started
 
 ```bash
